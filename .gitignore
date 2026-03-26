@@ -1,0 +1,11 @@
+# 忽略 macOS 系统文件
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# 忽略 Obsidian 配置（可选，看你是否需要同步）
+.obsidian/
